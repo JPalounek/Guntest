@@ -1,0 +1,7 @@
+{
+	"scripts" : [
+		"jekyll",
+		"instaedit"
+	],
+	"result-branch" : "result"
+}
