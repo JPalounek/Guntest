@@ -1,1 +1,4 @@
 date > tests.log
+git add .
+git commit -a -m"Just another test."
+git push
